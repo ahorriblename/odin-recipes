@@ -1,2 +1,2 @@
 # odin-recipes
-In this project, I will be creating a basic recipe website. By the end of this project, I will have demonstrated my ability to create a basic website that includes titles, links to other pages, images, paragraphs, unordered and ordered lists, working with git, and creating good git messages.
+In this project, I will be creating a basic recipe website. By the end of this project, I hope to have demonstrated my ability to create a basic website that includes titles, links to other pages, images, paragraphs, unordered and ordered lists, working with git, and creating useful git messages.
